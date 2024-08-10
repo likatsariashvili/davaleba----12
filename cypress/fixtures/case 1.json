@@ -1,0 +1,18 @@
+{
+"name": "Lika",
+"email": "test.test.7@gmail.com",
+"password": "lika.112233",
+"days": "25",
+"months": "May",
+"years": "1900",
+"first_name": "Lika",
+"last_name": "Tsariashvili",
+"company": "IT company",
+"address": "canada",
+"address2": "canada",
+"country": "Canada",
+"state": "Quebec",
+"city": "Quebec",
+"zipcode": "112233",
+"mobile_number": "555555555"
+}
